@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PizzaFacotry.SimplePizzaFactory">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SimplePizzaFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PizzaFacotry.Pizza">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Pizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PizzaFacotry.CheesePizza">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>CheesePizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PizzaFacotry.FunghiPizza">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>FunghiPizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PizzaFacotry.HamPizza">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>HamPizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PizzaFacotry.PizzaStoreClass">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAACAAAAAAA=</HashCode>
+      <FileName>PizzaStoreClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="PizzaFacotry.PizzaType">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAASAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PizzaType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
